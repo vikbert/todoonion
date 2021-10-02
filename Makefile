@@ -39,3 +39,9 @@ docker-clean: ## clean up all docker resource
 	docker image prune -f
 	docker volume prune -f
 	docker network prune -f
+
+#-- test
+test: ## clean up all docker resource
+	docker-compose exec php bin/phpunit
+
+
