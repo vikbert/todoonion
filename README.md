@@ -1,9 +1,10 @@
 <div align="center">
-    <h1 style="font-weight: bolder; margin-top: 0px" class="opacity-75">Symfony Docker Starter</h1>
+    <h1 style="font-weight: bolder; margin-top: 0px" class="opacity-75">todoOnion</h1>
 </div>
 
 <div align="center">
-  <p>Symfony 5 + Nginx + PHP-FPM + Docker Alpine </p>
+  <p>Over engineering a todo app with thining in onion archtecture.🔥deprecated: I decided to build the real-world app in symfony framework and onion architecture. see <a href="https://github.com/vikbert/symfony-realworld-onion">symfony-realworld-onion</>
+    </p>
 
   <p>
     <a href="#">
