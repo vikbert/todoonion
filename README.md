@@ -3,9 +3,10 @@
 </div>
 
 <div align="center">
-  <p>Over engineering a todo app with thining in onion archtecture.🔥deprecated: I decided to build the real-world app in symfony framework and onion architecture. see <a href="https://github.com/vikbert/symfony-realworld-onion">symfony-realworld-onion</>
-    </p>
-
+  <p>Over engineering a todo app with thining in onion archtecture</p>
+  <h5>
+      🔥deprecated: I decided to build the real-world app in symfony framework and onion architecture. see <a href="https://github.com/vikbert/symfony-realworld-onion">symfony-realworld-onion</>
+  </h5>
   <p>
     <a href="#">
       <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
